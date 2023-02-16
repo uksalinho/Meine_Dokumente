@@ -1,0 +1,7 @@
+1.Bu bir text dosyasidir.
+2.Bu ikinci satirdir.
+3.Bu ucuncu satirdir.
+4.Bu dorduncu satirdir.
+5.Bu besinci satirdir.
+6.Bu altinci satirdir.
+7.Bu yedinci satirdir.
